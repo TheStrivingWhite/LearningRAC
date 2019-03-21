@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+
+project 'RACStart.xcodeproj'
+target 'RACStart' do
+#    use_frameworks!
+pod 'ReactiveCocoa'
+pod 'ReactiveViewModel'
+end
